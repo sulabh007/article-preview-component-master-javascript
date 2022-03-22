@@ -48,6 +48,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [sulabh007](https://github.com/sulabh007)
+- GitHub - [sulabh007](https://github.com/sulabh007)
 - Frontend Mentor - [@sulabh007](https://www.frontendmentor.io/profile/sulabh007)
 
