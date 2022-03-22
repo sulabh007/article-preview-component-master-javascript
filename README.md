@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click here](https://your-solution-url.com)
+- Solution URL: [Click here](https://www.frontendmentor.io/solutions/article-preview-component-master-javascript-jWOjj3WXj)
 - Live Site URL: [Click here](https://sulabh007.github.io/article-preview-component-master-javascript/)
 
 ## My process
@@ -48,6 +48,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [sulabh007](https://github.com/sulabh007)
+- Frontend Mentor - [@sulabh007](https://www.frontendmentor.io/profile/sulabh007)
 
